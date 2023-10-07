@@ -1,0 +1,37 @@
+ {
+            "id" : 10,
+            "image" :"https://iili.io/J2YJx5J.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Salvador Castro",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"El vuelo y la manzana",
+            "technique" :" ",
+            "dateofpaint" :"Siglo:XX Año:__1989",
+            "series" :"170 / 200",
+            "mesaurment" :"50 cm x 34 cm"
+
+        },
+
+        {
+            "id" : 13,
+            "image" :"https://iili.io/J2YJRsI.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Xavier Rodríguez",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Hombre con dados",
+            "technique" :" ",
+            "dateofpaint" :"Siglo:XX Año:__1982",
+            "series" :" ",
+            "mesaurment" :"55 cm x 87 cm"
+
+        }

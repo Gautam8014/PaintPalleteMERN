@@ -1,0 +1,214 @@
+/* Home.css */
+
+body{
+    /* background: url("https://img.freepik.com/free-vector/abstract-watercolor-background_23-2149038179.jpg"); */
+    /* background-position: center; */
+    /* background-size: cover;  */
+    /* background-color: #f0f0f0;
+    background-repeat: no-repeat; */
+    /* width: 100%;
+    margin: auto; */
+
+    background-color: #310e68;
+    margin-bottom: 2%;
+    margin-top: 80px;
+
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    /* width: 90%; */
+    /* border: 1px solid red; */
+  }
+  
+  
+  .display-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+    /* border: 1px solid red; */
+    align-items: center;
+    
+  }
+  
+  .card {
+    /* border: 1px solid red; */
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2%;
+    transition: transform 0.3s;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    /* background-color: #f2f3fb; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  
+  .card:hover {
+    transform: scale(1.05); 
+    background-color: black;
+    /* box-shadow: 0 0 5px #f2f3fb,
+    0 0 25px rgb(246, 146, 146), 0 0 50px rgb(246, 146, 146),
+    0 0 100px rgb(246, 146, 146), 0 0 200px rgb(246, 146, 146);
+     */
+    color: white;
+   
+
+  }
+  
+  .card img {
+    max-width: 100%;
+    /* height: auto; */
+    /* border: 1px solid red; */
+    border: 5px solid white;
+  }
+
+
+
+  .showmore {
+    background-color: #310e68;; 
+    color: white; 
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 30px;
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-top: 2%;
+    transition: background-color 0.3s, transform 0.3s; 
+    /* border: 1px solid red; */
+    margin: auto;
+  }
+  
+  .showmore:hover {
+    background-color: lightcoral;
+    box-shadow: 0 0 5px lightcoral,
+    0 0 25px lightcoral, 0 0 50px lightcoral,
+    0 0 100px lightcoral, 0 0 200px lightcoral;
+
+    color: white;
+  }
+
+  .details{
+    /* border: 1px solid red; */
+    font-size: 20px;
+    box-shadow: 0 0 5px e29650;
+    opacity: 1;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    
+  }
+
+  .icon {
+    margin-right: 5px; 
+    vertical-align: middle; 
+    color:white;;  
+    margin-bottom: 1.5%;
+  }
+
+  hr{
+    border-top: 1px dotted gray;
+    
+  }
+
+  .detail2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 12px;
+  }
+
+
+  .detail2 > h2,
+  .detail2 > h3,
+  .detail2 > h4{
+    /* border: 1px dotted #3739e4; */
+    margin-right: 5%;
+  }
+
+  .display-card1{
+
+    display: grid;
+    width: 30%;
+    /* border: 1px solid red; */
+    align-items: center;
+    margin: auto;
+
+  }
+
+
+  .display-card1 img {
+
+    display: grid;
+    width: 100%;
+    /* border: 1px solid red; */
+    align-items: center;
+    margin: auto;
+
+  }
+
+  .buttonDiv{
+    width: 60%;
+    /* border: 1px solid red; */
+    margin: auto;
+  }
+
+  .showmore1{
+
+    background-color: #310e68;; 
+    color: white; 
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 30px;
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-top: 2%;
+    transition: background-color 0.3s, transform 0.3s; 
+    /* border: 1px solid red; */
+    margin: auto;
+
+  }
+
+  .showmore1:hover{
+
+    background-color: lightcoral;
+    box-shadow: 0 0 5px lightcoral,
+    0 0 25px lightcoral, 0 0 50px lightcoral,
+    0 0 100px lightcoral, 0 0 200px lightcoral;
+
+    color: white;
+
+  }
+
+
+  .but{
+    width: 60%;
+    padding: 5px;
+    margin: auto;
+    margin-top: 2%;
+  }
+
+  .showmore2{
+
+    background-color: white; 
+    color: black; 
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 30px;
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-top: 2%;
+    margin: auto;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+  }
+

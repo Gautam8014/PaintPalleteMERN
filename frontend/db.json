@@ -1,0 +1,283 @@
+{
+    "paint" :[
+       
+        {
+            "id" : 3,
+            "image" :"https://iili.io/J2YHmle.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Catalina",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Óleo",
+            "dateofpaint" :"Siglo:XIX Año:__1890",
+            "series" :"147/180",
+            "mesaurment" :"XX"
+
+        },
+
+
+       
+        {
+            "id" : 7,
+            "image" :"https://iili.io/J2YJdDQ.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"Siglo:XX Año:__1978",
+            "series" :" ",
+            "mesaurment" :"42.5 cm x 57.5 cm"
+
+        },
+        {
+            "id" : 8,
+            "image" :"https://iili.io/J2YJ3xV.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"Siglo:XX Año:__1980",
+            "series" :" ",
+            "mesaurment" :"42 cm x 57 cm"
+
+        },
+        {
+            "id" : 9,
+            "image" :"https://iili.io/J2YJKiP.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Mf. Muñoz",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Carbón",
+            "dateofpaint" :"Siglo:XX Año:__1972",
+            "series" :" ",
+            "mesaurment" :"42 cm x 57 cm"
+
+        },
+
+        {
+            "id" : 11,
+            "image" :"https://iili.io/J2YJzOv.png" ,
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Nelson Sarabia",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Mágica luz”",
+            "technique" :"Carbón",
+            "dateofpaint" :"Siglo:XX Año:__1990",
+            "series" :"30 / 100",
+            "mesaurment" :"66 cm x 49 cm"
+
+        },
+        {
+            "id" : 12,
+            "image" :"https://iili.io/J2YJAWN.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Nelson Sarabia",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Mágico",
+            "technique" :"Carbón",
+            "dateofpaint" :"Siglo:XX Año:__1988",
+            "series" :" ",
+            "mesaurment" :"78 cm x 54 cm"
+
+        },
+
+
+        
+        
+        {
+            "id" : 14,
+            "image" :"https://iili.io/J2YJagn.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Javier Klitz",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Mesa de pintura",
+            "technique" :"Mixta",
+            "dateofpaint" :"Siglo:XX Año:__1983",
+            "series" :" ",
+            "mesaurment" :"50 cm x 55 cm"
+
+        },
+        {
+            "id" : 15,
+            "image" :"https://iili.io/J2YJ05G.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Marina",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :"Siglo:XX Año:__",
+            "series" :" ",
+            "mesaurment" :""
+
+        },
+        {
+            "id" : 16,
+            "image" :"https://iili.io/J2YJMzl.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Antonio Loperena",
+            "placedate" :"Arguedas, España/1922_",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Caballos",
+            "technique" :"Óleo",
+            "dateofpaint" :"Siglo:XX Año:__",
+            "series" :" ",
+            "mesaurment" :"40 cm x 56 cm"
+
+        },
+        {
+            "id" : 17,
+            "image" :"https://iili.io/J2YJVX2.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Solleiro",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Toreras",
+            "technique" :"Óleo sobre tela",
+            "dateofpaint" :"Siglo:XX Año:__",
+            "series" :" ",
+            "mesaurment" :"1.50 cm x 1.20 cm"
+
+        },
+
+        {
+            "id" : 1,
+            "image" :"https://iili.io/J27bux1.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Juan Calderón (J.Calderón)",
+            "placedate" :"Monclova Coah./1938",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"La cita",
+            "technique" :"XX",
+            "dateofpaint" :"Siglo:XX Año:__1986",
+            "series" :"158/200",
+            "mesaurment" :"XX"
+
+        },
+        {
+            "id" : 2,
+            "image" :"https://iili.io/J2YHZVS.png" ,
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+            "name" :"Mario Martínez",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"XX",
+            "dateofpaint" :"Siglo:XX Año:_1984",
+            "series" :"147/180",
+            "mesaurment" :"XX"
+
+        },
+
+        {
+            "id" : 5,
+            "image" :"https://iili.io/J2YHti7.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Francisco Zúñiga",
+            "placedate" :"1912/ San José de Costa Rica",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :"Dibujo/ carbón",
+            "dateofpaint" :"Siglo:XX Año:__1974",
+            "series" :" ",
+            "mesaurment" :"47 cm x 63 cm"
+
+        },
+        
+        {
+            "id" : 4,
+            "image" :"https://iili.io/J2YHbf9.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Xavier Rodríguez",
+            "placedate" :" ",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :"Caballos",
+            "technique" :" ",
+            "dateofpaint" :"Siglo:XX Año:__1979",
+            "series" :" ",
+            "mesaurment" :"50 cm x 49 cm"
+
+        },
+        {
+            "id" : 6,
+            "image" :"https://iili.io/J2YJFWB.png",
+            "titel" :"FICHA TÉCNICA",
+            "title2" :"DATOS DEL AUTOR:",
+
+            "name" :"Luis Granda",
+            "placedate" :"Madrid /1941",
+
+            "titel3" :"DATOS DE LA OBRA:",
+
+            "paintTitle" :" ",
+            "technique" :" ",
+            "dateofpaint" :"Siglo:XX Año:__1984",
+            "series" :"80/100",
+            "mesaurment" :"20 cm x 30 cm"
+
+        }
+    ]
+} 
