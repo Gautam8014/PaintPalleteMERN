@@ -26,6 +26,9 @@ console.log(lang)
      { 
          title: "Contact", 
          path: "/contact" 
+     },
+     {
+      title: "Admin"
      }
 
      
@@ -39,12 +42,17 @@ console.log(lang)
 
      <nav>
 
-       
+       <RouterLink  className="link" to="/">{lang ? "Home": "Hogar"}</RouterLink>
+       <RouterLink  className="link" to="/gallery">{lang ? "Gallery": "Galería"}</RouterLink>
+       <RouterLink  className="link" to="/about">{lang ? "About": "Acerca de"}</RouterLink>
+       <RouterLink  className="link" to="/contact">{lang ? "Contact": "Contacto"}</RouterLink>
+       <RouterLink  className="link" to="/">{lang ? "Admin": "Admin"}</RouterLink>
+      
 
-     { 
+     {/* { 
      mylink.map((e)=>(<RouterLink className="link" key={e.path} to={e.path}>{e.title}</RouterLink>))
 
-   } 
+   }  */}
 
    <span></span>
         <button onClick={()=>{setLang(!lang)}}>{lang ? "Español": "English"}</button>
