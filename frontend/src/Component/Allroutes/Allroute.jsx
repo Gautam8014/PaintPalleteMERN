@@ -1,7 +1,7 @@
 import {Routes,Route} from "react-router-dom"
 
-import { Home } from "@mui/icons-material"
-
+// import { Home } from "@mui/icons-material"
+import { HomePage } from "../Pages/Home"
 import About from "../Pages/About"
 import Contact from "../Pages/Contact"
 import Gallery from "../Pages/Gallery"
@@ -12,7 +12,7 @@ import Singleproduct from "../Pages/Singleproduct"
 export default function Allroute() {
     return(
         <Routes>
-                  <Route path="/" element={<Home/>} />
+                  <Route path="/" element={<HomePage/>} />
                   <Route path="/about" element={<About />} />
                   <Route path="/contact" element={<Contact/>} />
                   <Route path="/gallery" element={<Gallery/>} />

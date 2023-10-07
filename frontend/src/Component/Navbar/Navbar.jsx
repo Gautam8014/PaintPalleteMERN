@@ -8,8 +8,8 @@ import React, { useState,useEffect } from 'react'
 import { MyAuthContext } from '../Context/AuthContextProvide';
 
  const Navbar = () => { 
-  const { isAuth} = useContext(MyAuthContext);
-
+  const { language, lang,setLang} = useContext(MyAuthContext);
+console.log(lang)
    let mylink=[ 
      { 
          title: "Home", 
@@ -47,7 +47,7 @@ import { MyAuthContext } from '../Context/AuthContextProvide';
    } 
 
    <span></span>
-        
+        <button onClick={()=>{setLang(!lang)}}>{lang ? "Español": "English"}</button>
      </nav>
   
        </div> 
